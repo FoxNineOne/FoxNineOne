@@ -1,16 +1,43 @@
-## Hi there 👋
+## Hi, I’m Shaheen
 
-<!--
-**FoxNineOne/FoxNineOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software engineer with a strong background in data engineering, system migrations, and automation, currently expanding into full-stack JavaScript development.
 
-Here are some ideas to get you started:
+I enjoy working on real-world problems involving messy data, legacy systems, and user-facing applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I work with
+- JavaScript
+- SQL
+- MongoDB
+- HTML / CSS
+- ETL & Data Migration
+- Currently learning: React & Node.js
+
+---
+
+### Featured Projects
+- **PomoZorro**  
+  Pomodoro-style productivity app with original music integration  
+  🔗 https://pomozorro.netlify.app/
+
+- **Forkify**  
+  Recipe application using third-party APIs, state management, and local storage  
+  🔗 https://forkify-foxnineone.netlify.app/
+
+- **React Fundamentals**  
+  A collection of React exercises and mini-projects focused on modern React concepts
+
+---
+
+### Interests
+- Building tools that save time and reduce complexity
+- Reverse-engineering systems and data structures
+- Automation and integration work
+- Blending technical and creative projects
+
+---
+
+### 🔗 Links
+- GitHub: https://github.com/FoxNineOne
+- LinkedIn: https://www.linkedin.com/in/shaheen-shaikh-94266341/
