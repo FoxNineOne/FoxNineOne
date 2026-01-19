@@ -25,6 +25,10 @@ I enjoy working on real-world problems involving messy data, legacy systems, and
   Recipe application using third-party APIs, state management, and local storage  
   🔗 https://forkify-foxnineone.netlify.app/
 
+- **Far Away**  
+  A travel companion app to help you pack for trips  
+  🔗 https://faraway-foxnineone.netlify.app/
+
 - **React Fundamentals**  
   A collection of React exercises and mini-projects focused on modern React concepts
 
