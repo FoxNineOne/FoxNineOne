@@ -17,17 +17,20 @@ I enjoy working on real-world problems involving messy data, legacy systems, and
 ---
 
 ### Featured Projects
+- **Eat-N-Split**  
+  React application to track balances and split bills between friends.
+  - State lifting, derived calculations, and persistent storage using localStorage
+  🔗 https://eatnsplit-billsplitter.netlify.app/
+  
 - **PomoZorro**  
-  Pomodoro-style productivity app with original music integration  
+  Pomodoro-style productivity application with original music integration and timed sessions.
+  - Focus on user experience, timers, and media playback
   🔗 https://pomozorro.netlify.app/
 
 - **Forkify**  
-  Recipe application using third-party APIs, state management, and local storage  
+  Recipe search application using a third-party API, client-side state management, and persistent storage.
+  - Async data fetching, application state, and local storage  
   🔗 https://forkify-foxnineone.netlify.app/
-
-- **Far Away**  
-  A travel companion app to help you pack for trips  
-  🔗 https://faraway-foxnineone.netlify.app/
 
 - **React Fundamentals**  
   A collection of React exercises and mini-projects focused on modern React concepts
