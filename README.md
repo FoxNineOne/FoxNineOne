@@ -5,18 +5,32 @@ I’m a software engineer with a strong background in data engineering, system m
 I enjoy working on real-world problems involving messy data, legacy systems, and user-facing applications.
 
 ---
+### Tech Stack
 
-### What I work with
-- JavaScript
+**Languages & Frontend**
+- JavaScript (ES6+)
+- React (currently deepening expertise)
+- HTML / CSS
+
+**Data & Backend**
 - SQL
 - MongoDB
-- HTML / CSS
-- ETL & Data Migration
-- Currently learning: React & Node.js
+- ETL Pipelines
+- Data Migration & Transformation
+
 
 ---
 
 ### Featured Projects
+- **SoundTracker – Music Production Analysis Tool**  
+  React application for analysing sound characteristics in music productions.  
+  • Structured state management across multiple components  
+  • Dynamic data visualisation and chart rendering  
+  • Persistent session storage with localStorage  
+  • Built from a real-world production workflow problem  
+  🔗 https://soundtracker.netlify.app/
+
+
 - **Eat-N-Split**  
   React application to track balances and split bills between friends.  
   • State lifting, derived calculations, and persistent storage using localStorage  
@@ -35,8 +49,7 @@ I enjoy working on real-world problems involving messy data, legacy systems, and
   🔗 https://forkify-foxnineone.netlify.app/
 
 
-- **React Fundamentals**  
-  A collection of React exercises and mini-projects focused on modern React concepts
+
 
 ---
 
