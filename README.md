@@ -15,6 +15,8 @@ I enjoy working on real-world problems involving messy data, legacy systems, and
 **Data & Backend**
 - SQL
 - MongoDB
+- NodeJs
+- Express
 - ETL Pipelines
 - Data Migration & Transformation
 
