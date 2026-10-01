@@ -52,16 +52,14 @@ Features secure authentication, interactive maps, Stripe payments, REST APIs, an
 
 ---
 
-### 🍴 Forkify
-Recipe search application using a third-party API with client-side state management and persistent browser storage.
+### 💳 TallyTown (in progress)
+Digital Loyalty API (TypeScript, React, Node.js, Express 5, MongoDB/Mongoose) 
 
 **Highlights**
-- Async API integration
-- Application state management
-- Local storage persistence
-- Modular JavaScript architecture
+- Designing a multi-merchant data model covering merchants, campaigns, per-stamp audit trails and staff roles, with GeoJSON locations.
+-	Implemented JWT cookie authentication and repeatable seed/refresh tooling for development data.
 
-🔗 Live Demo: https://forkify-foxnineone.netlify.app/
+🔗	Repository: https://github.com/FoxNineOne/sound-tracker
 
 ---
 
