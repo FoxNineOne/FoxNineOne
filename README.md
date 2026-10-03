@@ -58,6 +58,7 @@ Digital Loyalty API (TypeScript, React, Node.js, Express 5, MongoDB/Mongoose)
 **Highlights**
 - Designing a multi-merchant data model covering merchants, campaigns, per-stamp audit trails and staff roles, with GeoJSON locations.
 -	Implemented JWT cookie authentication and repeatable seed/refresh tooling for development data.
+-	User login displays current loyalty cards, active, ready to redeem and redeemed
 
 🔗	Repository: https://github.com/FoxNineOne/sound-tracker
 
