@@ -58,7 +58,6 @@ Full-stack loyalty platform I'm currently building with TypeScript, React, Node.
 The project is being developed incrementally, starting with the customer loyalty experience before expanding into the merchant side of the platform.
 
 **Current progress**
-- React frontend migrated to TypeScript
 - Node.js / Express REST API connected to MongoDB
 - JWT cookie authentication and customer login
 - Digital loyalty card prototypes
