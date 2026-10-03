@@ -53,14 +53,20 @@ Features secure authentication, interactive maps, Stripe payments, REST APIs, an
 ---
 
 ### 💳 TallyTown (in progress)
-Digital Loyalty API (TypeScript, React, Node.js, Express 5, MongoDB/Mongoose) 
+Full-stack loyalty platform I'm currently building with TypeScript, React, Node.js, Express, and MongoDB/Mongoose.
 
-**Highlights**
-- Designing a multi-merchant data model covering merchants, campaigns, per-stamp audit trails and staff roles, with GeoJSON locations.
--	Implemented JWT cookie authentication and repeatable seed/refresh tooling for development data.
--	User login displays current loyalty cards, active, ready to redeem and redeemed
+The project is being developed incrementally, starting with the customer loyalty experience before expanding into the merchant side of the platform.
 
-🔗	Repository: https://github.com/FoxNineOne/sound-tracker
+**Current progress**
+- React frontend migrated to TypeScript
+- Node.js / Express REST API connected to MongoDB
+- JWT cookie authentication and customer login
+- Digital loyalty card prototypes
+- Campaign and stamp progress tracking
+- Development seed/mock data for testing different states
+- Merchant/staff workflow currently being designed
+
+🔗 Repository: https://github.com/FoxNineOne/TallyTown
 
 ---
 
